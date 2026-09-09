@@ -17,8 +17,7 @@ Nothing here phones home. Nothing here trains on your corpus. The record is your
 | **[willow-mcp](https://github.com/willow-memory/willow-mcp)** | The shipped MCP hub — SOIL, KB, Kart, Grove, governance tools. `pip install willow-mcp` |
 | **[kartikeya](https://github.com/willow-memory/kartikeya)** | Standalone bwrap-sandboxed task queue + worker (Kart extracted) |
 | **[willow-gate](https://github.com/willow-memory/willow-gate)** | Manifest and auth gate for the platform bundle |
-| **[Willow](https://github.com/willow-memory/Willow)** | Fleet constitution — registry, envelopes, governance proposals |
-| **[safe-app-willow-grove](https://github.com/willow-memory/safe-app-willow-grove)** | Grove fleet bus (Heimdallr seat) |
+| **[willows-grove](https://github.com/willow-memory/willows-grove)** | Human and Willow seat |
 | **[corpus-lens](https://github.com/willow-memory/corpus-lens)** | Local-first process lens over your own human+agent corpus |
 
 ---
